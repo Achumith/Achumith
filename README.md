@@ -31,8 +31,9 @@
 ```yaml
 operator: Achumith
 primary_discipline: Cybersecurity & Threat Intelligence
+credentials: [Certified Ethical Hacker (C|EH), Certified Secure Computer User (C|SCU)]
 specializations:
-  cybersecurity: [Network Traffic Analysis, IDS/IPS, Threat Hunting, Vulnerability Assessment, Cryptography]
+  cybersecurity: [Ethical Hacking, Network Traffic Analysis, IDS/IPS, Vulnerability Mitigation, Cryptography]
   mobile_dev:    [Native Android (Java/Kotlin), Secure App Architectures, Privacy Engineering]
   iot_hardware:  [ESP32 Microcontrollers, Encrypted Proximity Mesh, Embedded Firmware, C/C++]
   ai_systems:    [Adversarial Threat Detection, Behavioral Telemetry, CloakBuster, CyberPath-AI]
@@ -113,15 +114,24 @@ philosophy: "Offense informs defense; proactive auditing safeguards infrastructu
 
 <br/>
 
-<!-- ==================== ACTIVE LABS & RESEARCH SPECIFICATIONS ==================== -->
-### 📡 Active Research & Lab Infrastructure
+<!-- ==================== VERIFIED CERTIFICATIONS & CREDENTIALS ==================== -->
+### 📜 Verified Certifications & Credentials
 
-| Lab / Domain | Environment & Core Stack | Primary Directives & Objectives |
-| :--- | :--- | :--- |
-| 🛡️ **Network Security & IDS** | `Wireshark` • `Linux` • `Suricata` • `Bash` | Network traffic monitoring, packet anomaly classification, and homelab perimeter defense. |
-| 🤖 **AI-Driven Cyber Threat Lab** | `Python` • `PyTorch` • `Scikit-Learn` | Developing machine learning models for evasion detection (`CloakBuster`) and automated threat paths (`CyberPath-AI`). |
-| ⚡ **Hardware & IoT Systems Lab** | `ESP32` • `C / C++` • `BLE / RF Mesh` | Engineering encrypted peer-to-peer communication nodes (`secure-proximity-chat-esp32`) and firmware integrity. |
-| 📱 **Mobile Application Defense** | `Android` • `Java` • `Kotlin` • `Flutter` | Hardening client-side applications (`SafeHer`), secure local storage, and cryptographic token management. |
+<div align="center">
+  <a href="https://aspen.eccouncil.org/Verify" target="_blank">
+    <img src="https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker_(C|EH)-D32F2F?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+  <a href="https://aspen.eccouncil.org/Verify" target="_blank">
+    <img src="https://img.shields.io/badge/EC--Council-Certified_Secure_Computer_User_(C|SCU)-00B4D8?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+| Certification | Issuing Body | Credential ID | Key Domains & Competencies | Verification |
+| :--- | :--- | :--- | :--- | :---: |
+| 🛡️ **Certified Ethical Hacker (C\|EH)** | **EC-Council** *(ANSI / ANAB Accredited)* | `ECC9150624378` | Ethical Hacking, AI-Assisted Security, Attack Surface Assessment & Vulnerability Mitigation | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
+| 🔐 **Certified Secure Computer User (C\|SCU)** | **EC-Council** | `ECC0713642985` | Network Threat Identification, Foundational Cybersecurity, Data Protection & Risk Reduction | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
 
 <br/>
 

@@ -138,7 +138,7 @@ philosophy: "Offense informs defense; proactive auditing safeguards infrastructu
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Achumith/Achumith/main/assets/quote_card.svg" alt="Cyber Philosophy & Adaptive Defense Quote" width="100%" />
 </div>
 
 <br/>

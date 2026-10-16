@@ -143,15 +143,11 @@ philosophy: "Offense informs defense; proactive auditing safeguards infrastructu
 
 <br/>
 
-<!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
-### 🐍 Contribution Grid Infiltration
+<!-- ==================== LIVE CYBER DEFENSE TELEMETRY & RADAR ==================== -->
+### 🛡️ Cyber Threat Defense & Live Telemetry
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achumith/Achumith/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achumith/Achumith/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Achumith/Achumith/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Achumith/Achumith/main/assets/cyber_defense_matrix.svg" alt="Cyber Threat Defense Matrix" width="100%" />
 </div>
 
 <br/>

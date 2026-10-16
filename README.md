@@ -128,23 +128,14 @@ philosophy: "Offense informs defense; proactive auditing safeguards infrastructu
 
 <br/>
 
-| Certification | Issuing Body | Credential ID | Key Domains & Competencies | Verification |
-| :--- | :--- | :--- | :--- | :---: |
-| 🛡️ **Certified Ethical Hacker (C\|EH)** | **EC-Council** *(ANSI / ANAB Accredited)* | `ECC9150624378` | Ethical Hacking, AI-Assisted Security, Attack Surface Assessment & Vulnerability Mitigation | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
-| 🔐 **Certified Secure Computer User (C\|SCU)** | **EC-Council** | `ECC0713642985` | Network Threat Identification, Foundational Cybersecurity, Data Protection & Risk Reduction | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
+| Certification | Issuing Body | Candidate Name | Credential ID | Key Domains & Competencies | Verification |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| 🛡️ **Certified Ethical Hacker (C\|EH)** | **EC-Council** *(ANSI / ANAB Accredited)* | `Achumith Sudhee` | `ECC9150624378` | Ethical Hacking, AI-Assisted Security, Attack Surface Assessment & Vulnerability Mitigation | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
+| 🔐 **Certified Secure Computer User (C\|SCU)** | **EC-Council** | `Achumith Sudhee` | `ECC0713642985` | Network Threat Identification, Foundational Cybersecurity, Data Protection & Risk Reduction | [Verify on Aspen ↗](https://aspen.eccouncil.org/Verify) |
 
-<br/>
-
-<!-- ==================== ENGINEERING METHODOLOGY ==================== -->
-### ⚙️ Operational Security Lifecycle
-
-```bash
-[ 01. Threat Modeling ] ──> [ 02. Secure Architecture ] ──> [ 03. Packet & Code Auditing ] ──> [ 04. Hardened Deployment ]
-        │                               │                               │                               │
-   STRIDE / DREAD              Zero-Trust Frameworks             Static & Dynamic Analysis         Defensive Telemetry
-```
-
-<br/>
+<p align="center">
+  <sub>🔒 <i>To verify credentials on EC-Council Aspen: Search by Candidate Name <b>Achumith Sudhee</b> or the respective <b>Credential ID</b>.</i></sub>
+</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />

@@ -5,7 +5,7 @@
 
   <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=🛡️+Cybersecurity+Specialist+%7C+Network+Defense+%26+Forensics;📱+Mobile+App+Developer+%7C+Secure+Android+%26+Cross-Platform;⚡+IoT+Hardware+Architect+%7C+ESP32+%26+Embedded+Security;🤖+AI-Augmented+Cyber+Defense+%7C+CloakBuster+%26+CyberPath-AI;🔐+Auditing+Code%2C+Packet+Inspection+%26+Reverse+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=%3E+Cybersecurity+Specialist+%7C+Network+Defense;%3E+Mobile+App+Developer+%7C+Android+%26+Cross-Platform;%3E+IoT+Hardware+Architect+%7C+ESP32+Systems;%3E+AI+Threat+Defense+%7C+CloakBuster+%26+CyberPath-AI;%3E+Packet+Inspection+%26+Network+Forensics" alt="Typing SVG" />
   </a>
 
   <br/><br/>

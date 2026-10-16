@@ -113,18 +113,31 @@ philosophy: "Offense informs defense; proactive auditing safeguards infrastructu
 
 <br/>
 
-<!-- ==================== TELEMETRY & STATS ==================== -->
-### 📊 Telemetry & Performance Metrics
+<!-- ==================== ACTIVE LABS & RESEARCH SPECIFICATIONS ==================== -->
+### 📡 Active Research & Lab Infrastructure
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achumith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=38BDF8&text_color=94A3B8" height="155" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achumith&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=38BDF8&currStreakLabel=00F0FF" height="155" />
-</div>
+| Lab / Domain | Environment & Core Stack | Primary Directives & Objectives |
+| :--- | :--- | :--- |
+| 🛡️ **Network Security & IDS** | `Wireshark` • `Linux` • `Suricata` • `Bash` | Network traffic monitoring, packet anomaly classification, and homelab perimeter defense. |
+| 🤖 **AI-Driven Cyber Threat Lab** | `Python` • `PyTorch` • `Scikit-Learn` | Developing machine learning models for evasion detection (`CloakBuster`) and automated threat paths (`CyberPath-AI`). |
+| ⚡ **Hardware & IoT Systems Lab** | `ESP32` • `C / C++` • `BLE / RF Mesh` | Engineering encrypted peer-to-peer communication nodes (`secure-proximity-chat-esp32`) and firmware integrity. |
+| 📱 **Mobile Application Defense** | `Android` • `Java` • `Kotlin` • `Flutter` | Hardening client-side applications (`SafeHer`), secure local storage, and cryptographic token management. |
+
+<br/>
+
+<!-- ==================== ENGINEERING METHODOLOGY ==================== -->
+### ⚙️ Operational Security Lifecycle
+
+```bash
+[ 01. Threat Modeling ] ──> [ 02. Secure Architecture ] ──> [ 03. Packet & Code Auditing ] ──> [ 04. Hardened Deployment ]
+        │                               │                               │                               │
+   STRIDE / DREAD              Zero-Trust Frameworks             Static & Dynamic Analysis         Defensive Telemetry
+```
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achumith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" height="135" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>

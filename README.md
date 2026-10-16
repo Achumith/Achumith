@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ==================== DYNAMIC ANIMATED HERO HEADER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=220&section=header&text=ACHUMITH&fontSize=50&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Systems%20%7C%20IoT%20Engineering&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=230&section=header&text=ACHUMITH&fontSize=50&fontAlignY=36&desc=Cybersecurity%20Specialist%20%7C%20Mobile%20App%20Dev%20%7C%20IoT%20Systems&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
 
   <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Cybersecurity+Researcher+%26+Systems+Developer;AI-Driven+Security+%7C+CloakBuster+%26+CyberPath-AI;Network+Traffic+Analysis+%26+Homelab+IDS;Embedded+IoT+%26+Hardware+Research+(ESP32);Crafting+Resilient+Full-Stack+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=🛡️+Cybersecurity+Specialist+%7C+Network+Defense+%26+Forensics;📱+Mobile+App+Developer+%7C+Secure+Android+%26+Cross-Platform;⚡+IoT+Hardware+Architect+%7C+ESP32+%26+Embedded+Security;🤖+AI-Augmented+Cyber+Defense+%7C+CloakBuster+%26+CyberPath-AI;🔐+Auditing+Code%2C+Packet+Inspection+%26+Reverse+Engineering" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -25,85 +25,112 @@
 
 <br/>
 
-<!-- ==================== ABOUT & MISSION ==================== -->
-### 🛡️ About & Mission
+<!-- ==================== ABOUT & TELEMETRY PROFILE ==================== -->
+### 🛡️ Operator Dossier
 
 ```yaml
-identity:
-  handle: Achumith
-  focus: [Cybersecurity, Machine Learning, Embedded Systems, Network Forensics]
-  current_mission: Building AI-augmented threat detection & security telemetry
-  core_philosophy: "Offense informs defense; simplicity reinforces resilience."
+operator: Achumith
+primary_discipline: Cybersecurity & Threat Intelligence
+specializations:
+  cybersecurity: [Network Traffic Analysis, IDS/IPS, Threat Hunting, Vulnerability Assessment, Cryptography]
+  mobile_dev:    [Native Android (Java/Kotlin), Secure App Architectures, Privacy Engineering]
+  iot_hardware:  [ESP32 Microcontrollers, Encrypted Proximity Mesh, Embedded Firmware, C/C++]
+  ai_systems:    [Adversarial Threat Detection, Behavioral Telemetry, CloakBuster, CyberPath-AI]
+philosophy: "Offense informs defense; proactive auditing safeguards infrastructure."
 ```
 
-- 🔬 **Active Research**: Network intrusion detection, stealth analysis, and adversarial ML.
-- ⚡ **Hardware & IoT**: Prototyping encrypted mesh & proximity nodes on **ESP32** / microcontrollers.
-- 🌐 **Software Craft**: Writing high-performance **Python**, **C++**, and **Full-Stack** applications.
+- 🔒 **Cybersecurity Focus**: Architecting automated threat classification, homelab intrusion detection pipelines, and analyzing encrypted packet signatures.
+- 📱 **Mobile Application Engineering**: Developing mission-critical, secure mobile applications (like **SafeHer**) emphasizing local data protection and hardened communication.
+- ⚡ **IoT & Hardware Systems**: Engineering encrypted peer-to-peer hardware solutions (like **secure-proximity-chat-esp32**) with firmware-level security and mesh connectivity.
 
 <br/>
 
-<!-- ==================== TECH ARSENAL ==================== -->
-### 💻 Tech Arsenal & Toolbelt
+<!-- ==================== TECH ARSENAL & TOOLBELT ==================== -->
+### 💻 Technical Arsenal & Security Stack
 
 <div align="center">
 
-  #### Languages & Core Technologies
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,bash,c&perline=6&theme=dark" />
+  #### 🛡️ Cybersecurity, Pentesting & Network Defense
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,cpp,docker,git,github&perline=8&theme=dark" />
+  
+  <br/>
+  
+  <!-- SECURITY SPECIFIC SPECIALIZATION BADGES -->
+  <img src="https://img.shields.io/badge/Network_Forensics-00F0FF?style=flat-square&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Intrusion_Detection_(IDS)-10B981?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Inspection-38BDF8?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Scanning-F59E0B?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-8B5CF6?style=flat-square&logo=keycdn&logoColor=white" />
 
   <br/><br/>
 
-  #### Systems, DevOps & Security Stack
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,arduino&perline=6&theme=dark" />
+  #### 📱 Mobile App Development & Software Engineering
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart,react,js,ts&perline=8&theme=dark" />
 
   <br/><br/>
 
-  #### Web & Application Development
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,vscode&perline=6&theme=dark" />
+  #### ⚡ IoT, Microcontrollers & Embedded Systems
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi,vscode,postman&perline=6&theme=dark" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/ESP32_Firmware-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mesh_Networking-06B6D4?style=flat-square&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware_Security-10B981?style=flat-square&logo=microchip&logoColor=white" />
 
 </div>
 
 <br/>
 
 <!-- ==================== FEATURED INITIATIVES ==================== -->
-### 🚀 Highlighted Repositories
+### 🚀 Field Deployments & Flagship Projects
 
 <div align="center">
   <a href="https://github.com/Achumith/CyberPath-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=CyberPath-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=00F0FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=CyberPath-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
   </a>
   <a href="https://github.com/Achumith/CloakBuster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=CloakBuster&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=00F0FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=CloakBuster&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
   </a>
 </div>
+
 <div align="center">
   <a href="https://github.com/Achumith/network-traffic-analysis-ids-homelab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=network-traffic-analysis-ids-homelab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=00F0FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=network-traffic-analysis-ids-homelab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
   </a>
   <a href="https://github.com/Achumith/secure-proximity-chat-esp32">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=secure-proximity-chat-esp32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=00F0FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=secure-proximity-chat-esp32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Achumith/SafeHer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=SafeHer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
+  </a>
+  <a href="https://github.com/Achumith/online-pm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achumith&repo=online-pm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&icon_color=38BDF8" />
   </a>
 </div>
 
 <br/>
 
 <!-- ==================== TELEMETRY & STATS ==================== -->
-### 📊 Telemetry & Activity Metrics
+### 📊 Telemetry & Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achumith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=00F0FF&text_color=94A3B8" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achumith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=38BDF8&text_color=94A3B8" height="155" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achumith&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=38BDF8&currStreakLabel=00F0FF" height="155" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achumith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achumith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" height="135" />
 </div>
 
 <br/>
 
 <!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
-### 🐍 Contribution Grid Eater
+### 🐍 Contribution Grid Infiltration
 
 <div align="center">
   <picture>

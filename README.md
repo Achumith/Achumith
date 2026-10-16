@@ -11,13 +11,13 @@
   <br/><br/>
 
   <!-- ==================== SOCIAL & CONTACT BADGES ==================== -->
-  <a href="https://github.com/Achumith">
+  <a href="https://github.com/Achumith" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F0FF" />
   </a>
-  <a href="mailto:achumithsudhee88@gmail.com">
+  <a href="mailto:achumithsudhee88@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/achumith-sudhee-443057319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
